@@ -1,0 +1,9 @@
+Functional Interface	:-> Purpose
+
+Function<T, R>	        :-> Takes input T, returns output R (e.g., square of a number).
+Predicate<T>    	    :-> Returns true or false (e.g., check if string is empty).
+Consumer<T>     	    :-> Performs an operation without returning a result (e.g., printing).
+Supplier<T>	            :-> Supplies a value (e.g., generating a random number).
+BiFunction<T, U, R>     :-> Takes two inputs, returns an output (e.g., multiplication).
+UnaryOperator<T>	    :-> Same input and output type, modifies value (e.g., increment).
+BinaryOperator<T>	    :-> Similar to BiFunction, but both inputs and output are same type (e.g., sum).

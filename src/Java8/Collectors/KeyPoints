@@ -1,0 +1,14 @@
+Collector	        Purpose
+
+toList()	        ->Collects stream elements into a list.
+toSet()	            ->Collects distinct elements into a set.
+toMap()	            ->Converts a list into a map.
+groupingBy()	    ->Groups elements based on a condition.
+counting()	        ->Counts elements in a stream.
+joining()	        ->Joins strings with a delimiter.
+partitioningBy()	->Partitions elements into two groups.
+summarizingInt()	->Collects statistics of numeric values.
+averagingInt()	    ->Computes the average.
+summingInt()	    ->Computes the sum.
+
+

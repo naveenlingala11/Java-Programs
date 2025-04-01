@@ -1,0 +1,7 @@
+Operation	                        Purpose
+
+map()	                            ->Transforms each element (e.g., squares, uppercase).
+flatMap()	                        ->Flattens nested structures (e.g., lists, characters).
+collect(Collectors.toList())	    ->Collects stream results into a list.
+distinct()	                        ->Removes duplicates.
+Optional.map()	                    ->Transforms an Optional value.

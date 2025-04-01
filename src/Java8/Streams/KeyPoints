@@ -1,0 +1,7 @@
+✔ Optional.of(value)                → Throws an exception if the value is null.
+✔ Optional.ofNullable(value)        → Allows null values.
+✔ orElse(defaultValue)              → Returns a default value if Optional is empty.
+✔ orElseThrow(exception)            → Throws an exception if Optional is empty.
+✔ map(Function)                     → Transforms values inside Optional.
+✔ filter(Predicate)                 → Filters based on conditions.
+✔ flatMap(Function)                 → Chains multiple Optional values.
